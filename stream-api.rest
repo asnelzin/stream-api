@@ -1,0 +1,6 @@
+
+# create stream
+POST http://localhost:8080/v1/streams/
+
+###
+POST http://localhost:8080/v1/streams/

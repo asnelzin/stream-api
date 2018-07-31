@@ -1,0 +1,20 @@
+/logs/
+/target/
+/.vscode/
+/.idea/
+/.git/
+
+# source files
+docker-compose.yml
+rest-client.env.json
+
+# generated files
+*.cov
+.cover
+target
+debug
+debug.test
+*.prof
+*.test
+/bin/
+stream-api
